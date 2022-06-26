@@ -9,7 +9,7 @@ http://lab.malab.cn/~wangchao/softwares/Enhancer-FRL/
 http://39.100.246.211:10504/
 
 #### 2.2 Datasets and source code are available at:
-https://github.com/wangchao-malab/Enhancer-FRL
+https://github.com/wangchao-malab/Enhancer-FRL and http://lab.malab.cn/~wangchao/softwares/Enhancer-FRL/
 
 #### 2.3 Local running
 ##### 2.3.1 Environment
