@@ -38,7 +38,7 @@ python Enhancer-FRL.py -i input.fasta -o results.csv
 
 -o name of output_file              # folder “results” is the default file path for result save.
 
-Notes: We have set the default working dir to 'C:\Users\Administer\Desktop\Enhancer-FRL_master', Of course, you can change the working dir by fix the Enhancer-FRL.py scripts according your environment.
+Notes: We have set the default working dir to 'C:\Users\Administer\Desktop\Enhancer-FRL_master', Of course, you can change the working dir by fix the Enhancer-FRL.py scripts according to your environment.
 
 ### 3. Output explaining
 The output file (in ".csv" format) can be found in results folder, which including sequence_id, Enhancer_prediction, Enhancer_prediction_probability,	Enhancer_classification, Enhancer_classification_probability.
