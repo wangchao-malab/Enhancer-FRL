@@ -14,12 +14,19 @@ https://github.com/wangchao-malab/Enhancer-FRL
 #### 2.3 Local running
 ##### 2.3.1 Environment
 Before running, please make sure the following packages are installed in Python environment:
+
 gensim==3.4.0
+
 pandas==1.1.3
+
 python==3.7.3
+
 biopython==1.7.8
+
 numpy==1.19.2
+
 scikit-learn==0.22.1
+
 For convenience, we strongly recommended users to install the Anaconda Python 3.7.3 (or above) in your local computer.
 
 ##### 2.3.2 Running
