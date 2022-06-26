@@ -21,12 +21,20 @@ biopython==1.7.8
 numpy==1.19.2
 scikit-learn==0.22.1
 For convenience, we strongly recommended users to install the Anaconda Python 3.7.3 (or above) in your local computer.
+
 ##### 2.3.2 Running
 Changing working dir to Enhancer-FRL_master, and then running the following command:
+
 python Enhancer-FRL.py -i input.fasta -o results.csv
+
 -i: name of input_file in fasta format   # folder “sequence” is the default file path of the input_file 
+
 -o name of output_file              # folder “results” is the default file path for result save.
 
 Notes: We have set the default working dir to 'C:\Users\Administer\Desktop\Enhancer-FRL_master', Of course, you can change the working dir by fix the Enhancer-FRL.py scripts according your environment.
 
+### 3. Output explaining
+The output file (in ".csv" format) can be found in results folder, which including sequence_id, Enhancer_prediction, Enhancer_prediction_probability,	Enhancer_classification, Enhancer_classification_probability.
 
+### 4. References
+Chao Wang et al. 2022. Enhancer-FRL: improved and robust identification of enhancers and their activities using feature representation learning (Submited).
