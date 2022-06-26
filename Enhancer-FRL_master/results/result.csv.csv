@@ -1,0 +1,5 @@
+seq_id,Enhancer_prediction,probability,Enhancer classification,probability
+>Chr11_6627824_6628024|3|testing,Enhancer,0.7703,Strong enhancer,0.7485
+>Chr11_9587224_9587424|3|testing,Enhancer,0.5120,Weak enhancer,0.4758
+>hg19_ct_UserTrack_3545_158|3|testing,None enhancer,0.4324,-,-
+>hg19_ct_UserTrack_3545_57|3|testing,None enhancer,0.4806,-,-
